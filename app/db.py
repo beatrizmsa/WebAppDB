@@ -6,8 +6,8 @@ import re
 # Change this if necessary
 CONFIG = {
   'DB': 'guest',
-  'USER': 'root',
-  'PASSWORD': 'viEt3asHWOMz',
+  'USER': 'guest',
+  'PASSWORD': '87654321',
   'HOST': '127.0.0.1',
   'PORT': 3306,
   'CHARSET': 'utf8'
